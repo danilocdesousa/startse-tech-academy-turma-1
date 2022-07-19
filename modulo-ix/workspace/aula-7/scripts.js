@@ -1,3 +1,4 @@
+/* Declarando Atributos de uma classe em JavaScript */
 "use strict";
 class Financing {
     financingValue;

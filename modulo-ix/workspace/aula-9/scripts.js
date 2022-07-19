@@ -1,3 +1,5 @@
+/* Atribuição de um Objeto em JavaScript */
+"use strict"
 class Course {
     code;
     title;

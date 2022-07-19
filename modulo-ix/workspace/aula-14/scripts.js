@@ -1,6 +1,5 @@
+/* Herança - Atributos e Métodos */
 "use strict";
-/* JavaScript Class super */
-
 class Product {
     type;
     constructor(type) {

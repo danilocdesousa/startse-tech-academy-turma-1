@@ -1,7 +1,5 @@
+/* Atributo Estático de uma Classe em JavaScrip */
 "use strict";
-
-// Atributo Estático de uma Classe em JavaScrip.
-
 class Product {
     static large = 3;
     static medium = 2;

@@ -1,3 +1,4 @@
+/* Método Construtor de uma Classe em JavaScript */
 "use strict";
 class Film {
     constructor(title, year) {

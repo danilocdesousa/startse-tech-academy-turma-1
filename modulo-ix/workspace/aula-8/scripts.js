@@ -1,3 +1,4 @@
+/* Instanciando um Objeto em JavaScript */
 "use strict";
 class Product {
     code;

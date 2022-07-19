@@ -1,5 +1,5 @@
+/* Declarando Métodos de uma Classe em JavaScript */
 "use strict";
-
 class Product {
     description;
     width;
